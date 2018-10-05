@@ -1,0 +1,2 @@
+# rethinX
+Hackathon (Disaster management)
